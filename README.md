@@ -1,1 +1,1 @@
-# ReadMe-GitIgnore-Auto
+This is auto-generated readme file
